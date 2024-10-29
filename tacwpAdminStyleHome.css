@@ -1,0 +1,13 @@
+.ampwp-section{display:block;clear:both;width:100%;border-bottom:#999 solid 1px;padding:20px 0;margin-bottom:10px;}
+.ampwp-section *{font-weight:14px;line-height:22px;}
+.ampwp-title, .ampwp-content{display:inline-block;vertical-align:top;text-align:left;}
+.ampwp-title{width:200px;font-size:20px;font-weight:bold;}
+.ampwp-content{width:calc(100% - 230px);}
+.ampwp-spacer{display:block;clear:both;margin-bottom:20px;}
+.ampwp-register{font-weight:bold;color:#f00;}
+.ampwp-section.regsec .ampwp-title{color:#f00;}
+.ampwp-swsec{padding-bottom:10px;}
+.ampwp-swttl{font-size:18px;}
+.ampwp-section .button{font-size:16px;}
+.ampwp-section.tools .ampwp-wrap{display:flex;flex-wrap:wrap;gap:20px;}
+.ampwp-section.tools .ampwp-wrap > .tool{max-width:300px;}
